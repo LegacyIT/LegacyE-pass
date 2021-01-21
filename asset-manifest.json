@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LegacyE-pass/static/css/main.d5636919.chunk.css",
+    "main.js": "/LegacyE-pass/static/js/main.0bfc64ba.chunk.js",
+    "main.js.map": "/LegacyE-pass/static/js/main.0bfc64ba.chunk.js.map",
+    "runtime-main.js": "/LegacyE-pass/static/js/runtime-main.00251261.js",
+    "runtime-main.js.map": "/LegacyE-pass/static/js/runtime-main.00251261.js.map",
+    "static/css/2.a1596f27.chunk.css": "/LegacyE-pass/static/css/2.a1596f27.chunk.css",
+    "static/js/2.707072fd.chunk.js": "/LegacyE-pass/static/js/2.707072fd.chunk.js",
+    "static/js/2.707072fd.chunk.js.map": "/LegacyE-pass/static/js/2.707072fd.chunk.js.map",
+    "index.html": "/LegacyE-pass/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/LegacyE-pass/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.d5636919.chunk.css.map": "/LegacyE-pass/static/css/main.d5636919.chunk.css.map",
+    "static/js/2.707072fd.chunk.js.LICENSE.txt": "/LegacyE-pass/static/js/2.707072fd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/LegacyE-pass/static/media/MTNBrighterSans-RegularItalic.b6e6b6af.otf",
+    "static/media/background3.f41abd1d.jpg": "/LegacyE-pass/static/media/background3.f41abd1d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00251261.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.707072fd.chunk.js",
+    "static/css/main.d5636919.chunk.css",
+    "static/js/main.0bfc64ba.chunk.js"
+  ]
+}
