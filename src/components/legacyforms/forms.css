@@ -1,0 +1,83 @@
+.btn {
+  color: white;
+  background-color: #680003;
+  border: 3px solid #ff7a01;
+}
+
+.btn:hover {
+  color: white;
+  background-color: #ff7a01;
+  border: 3px solid #680003;
+}
+
+.forms_inputs {
+  background-color: transparent;
+  border-bottom: 2px solid #ff7a01;
+  border-left: 0px;
+  border-right: 0px;
+  border-top: 0px;
+}
+
+/*IT*/
+.cloud_computing {
+  animation: fadeInLeft; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2.5s; /* don't forget to set a duration! */
+}
+
+.software {
+  animation: fadeInLeft; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 3s; /* don't forget to set a duration! */
+}
+
+.data_modeling {
+  animation: fadeInLeft; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 3.5s; /* don't forget to set a duration! */
+}
+
+/*GS*/
+.recourse {
+  animation: fadeInRight; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2.5s; /* don't forget to set a duration! */
+}
+
+.learn {
+  animation: fadeInRight; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 3s; /* don't forget to set a duration! */
+}
+
+.mastery {
+  animation: fadeInRight; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 3.5s; /* don't forget to set a duration! */
+}
+
+/*CR*/
+.color_theory {
+  animation: fadeInUp; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2.5s; /* don't forget to set a duration! */
+}
+
+.type_hierarch {
+  animation: fadeInUp; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 3s; /* don't forget to set a duration! */
+}
+
+.retina_display {
+  animation: fadeInUp; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 3.5s; /* don't forget to set a duration! */
+}
+
+/*AM*/
+.sales_funnel {
+  animation: fadeInDown; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2.5s; /* don't forget to set a duration! */
+}
+
+.multichannel_marketing {
+  animation: fadeInDown; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 3s; /* don't forget to set a duration! */
+}
+
+.seo {
+  animation: fadeInDown; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 3.5s; /* don't forget to set a duration! */
+}

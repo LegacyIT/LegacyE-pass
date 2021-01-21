@@ -1,0 +1,79 @@
+@font-face {
+  font-family: mtnbrighterbold;
+  src: url("./fonts/otf/MTNBrighterSans-Bold.otf");
+}
+
+@font-face {
+  font-family: mtnbrighterbolditalic;
+  src: url("./fonts/otf/MTNBrighterSans-BoldItalic.otf");
+}
+
+@font-face {
+  font-family: mtnbrighterextrabold;
+  src: url("./fonts/otf/MTNBrighterSans-ExtraBold.otf");
+}
+
+@font-face {
+  font-family: mtnbrighterextrabolditalic;
+  src: url("./fonts/otf/MTNBrighterSans-ExtraBoldItalic.otf");
+}
+
+@font-face {
+  font-family: mtnbrighterextralight;
+  src: url("./fonts/otf/MTNBrighterSans-ExtraLight.otf");
+}
+
+@font-face {
+  font-family: mtnbrighterextralightitalic;
+  src: url("./fonts/otf/MTNBrighterSans-ExtraLightItalic.otf");
+}
+
+@font-face {
+  font-family: mtnbrighterlight;
+  src: url("./fonts/otf/MTNBrighterSans-Light.otf");
+}
+
+@font-face {
+  font-family: mtnbrighterlightitalic;
+  src: url("./fonts/otf/MTNBrighterSans-LightItalic.otf");
+}
+
+@font-face {
+  font-family: mtnbrightermedium;
+  src: url("./fonts/otf/MTNBrighterSans-Medium.otf");
+}
+
+@font-face {
+  font-family: mtnbrightermediumitalic;
+  src: url("./fonts/otf/MTNBrighterSans-MediumItalic.otf");
+}
+
+@font-face {
+  font-family: mtnbrighterregular;
+  src: url("./fonts/otf/MTNBrighterSans-Regular.otf");
+}
+
+@font-face {
+  font-family: mtnbrighterregularitalic;
+  src: url("./fonts/otf/MTNBrighterSans-RegularItalic.otf");
+}
+
+@font-face {
+  font-family: mtnbrighterttfregular;
+  src: url("./fonts/ttf/MTNBrighterSans-Regular.ttf");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  color: beige;
+  background-color: #00001a;
+  font-family: "mtnbrighterttfregular";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
