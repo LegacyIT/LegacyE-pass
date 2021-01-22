@@ -73,7 +73,7 @@ const Home = () => {
                 </select>
               </div>
               <div className="form-group d-flex justify-content-center m-3 p-3">
-                <Link to={`/${department}`} className="btn w-25">
+                <Link to={`/${department}`} className="btn p-2">
                   Proceed
                 </Link>
               </div>
