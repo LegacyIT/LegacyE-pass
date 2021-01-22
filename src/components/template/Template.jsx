@@ -26,7 +26,6 @@ const Template = (props) => {
             backgroundSize: "fit",
             height: "494px",
             width: "494px",
-            border: '5px solid white'
           }}
         >
           <div className="info">
@@ -46,7 +45,7 @@ const Template = (props) => {
               }}
             ></div>
             <span>
-              <div className="name p-1">
+              <div className="name p-1 text-center">
                 {props?.location?.state?.info?.name}
               </div>
               <div className="text-center init p-1">
