@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LegacyE-pass/static/css/main.0f459b94.chunk.css",
-    "main.js": "/LegacyE-pass/static/js/main.acad356c.chunk.js",
-    "main.js.map": "/LegacyE-pass/static/js/main.acad356c.chunk.js.map",
+    "main.js": "/LegacyE-pass/static/js/main.81ed0fa3.chunk.js",
+    "main.js.map": "/LegacyE-pass/static/js/main.81ed0fa3.chunk.js.map",
     "runtime-main.js": "/LegacyE-pass/static/js/runtime-main.00251261.js",
     "runtime-main.js.map": "/LegacyE-pass/static/js/runtime-main.00251261.js.map",
     "static/css/2.a1596f27.chunk.css": "/LegacyE-pass/static/css/2.a1596f27.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.a1596f27.chunk.css",
     "static/js/2.707072fd.chunk.js",
     "static/css/main.0f459b94.chunk.css",
-    "static/js/main.acad356c.chunk.js"
+    "static/js/main.81ed0fa3.chunk.js"
   ]
 }
