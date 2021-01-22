@@ -15,7 +15,7 @@ const Template = (props) => {
   return (
     <div className="parent">
       {/* {console.log(props?.location?.state?.info)} */}
-      <div className="container-fluid  align-content-center">
+      <div>
         <div
           className="d-flex justify-content-center"
           id="_template"
@@ -24,7 +24,9 @@ const Template = (props) => {
             backgroundRepeat: "no-repeat",
             backgroundPosition: "center",
             backgroundSize: "fit",
-            height: "500px",
+            height: "494px",
+            width: "494px",
+            border: '5px solid white'
           }}
         >
           <div className="info">
