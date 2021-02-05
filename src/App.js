@@ -5,7 +5,8 @@ import LegacyAM from "./components/legacyforms/AM";
 import LegacyCR from "./components/legacyforms/CR";
 import LegacyGS from "./components/legacyforms/GS";
 import LegacyIT from "./components/legacyforms/IT";
-import Template from "./components/template/Template";
+import Greeting from "./components/greeting/Greeting";
+// import Template from "./components/template/Template";
 
 function App() {
   return (
@@ -16,7 +17,7 @@ function App() {
         <Route exact path="/LegacyCR" component={LegacyCR} />
         <Route exact path="/LegacyGS" component={LegacyGS} />
         <Route exact path="/LegacyIT" component={LegacyIT} />
-        <Route exact path="/template" component={Template} />
+        <Route exact path="/greeting" component={Greeting} />
       </Switch>
     </HashRouter>
   );

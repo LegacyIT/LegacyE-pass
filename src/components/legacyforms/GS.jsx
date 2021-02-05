@@ -447,7 +447,7 @@ const LegacyGS = () => {
       return (
         <Redirect
           to={{
-            pathname: "/template",
+            pathname: "/greeting",
             state: { info },
           }}
         />
