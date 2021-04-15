@@ -532,11 +532,11 @@ const LegacyIT = () => {
                       Cloud Computing
                     </h3>
                     <p className="text-center cloud_computing">
-                      <span style={{ color: "#e60008" }}>Lorem</span> ipsum
-                      dolor sit amet, consectetur adipiscing elit, sed do
-                      eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                      <span style={{ color: "#e60008" }}>Cloud </span>
+                      computing is the delivery of different services through
+                      the Internet. These resources include tools and
+                      applications like data storage, servers, databases,
+                      networking, and software.
                     </p>
                   </div>
 
@@ -545,24 +545,24 @@ const LegacyIT = () => {
                       Software Development
                     </h3>
                     <p className="text-center software">
-                      <span style={{ color: "#e60008" }}>Lorem</span> ipsum
-                      dolor sit amet, consectetur adipiscing elit, sed do
-                      eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                      <span style={{ color: "#e60008" }}>Software </span>
+                      development provides a series of steps for programmers to
+                      create computer programs. This process makes up the phases
+                      in the software development life cycle. Understanding the
+                      software development method offers vast opportunities in
+                      the IT industry.
                     </p>
                   </div>
 
                   <div className="">
                     <h3 className="text-center" style={{ color: "#ff7a01" }}>
-                      Data Modeling
+                      LegacyIT
                     </h3>
                     <p className="text-center data_modeling">
-                      <span style={{ color: "#e60008" }}>Lorem</span> ipsum
-                      dolor sit amet, consectetur adipiscing elit, sed do
-                      eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                      <span style={{ color: "#e60008" }}>Professional </span>
+                      Info-Tech Solutions, meeting global needs, innovating
+                      ideas, connecting the dots between visions and reality via
+                      tech.
                     </p>
                   </div>
                 </div>

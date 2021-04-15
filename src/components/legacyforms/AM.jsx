@@ -467,24 +467,24 @@ const LegacyAM = () => {
                       Sales funnel
                     </h3>
                     <p className="text-center sales_funnel ">
-                      <span style={{ color: "#e60008" }}>Lorem</span> ipsum
-                      dolor sit amet, consectetur adipiscing elit, sed do
-                      eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                      <span style={{ color: "#e60008" }}>Sales </span>
+                      funnel (also known as a revenue funnel or sales process)
+                      refers to the buying process that companies lead customers
+                      through when purchasing products. The definition also
+                      refers to the process through which a company finds,
+                      qualifies, and sells its products to buyers.
                     </p>
                   </div>
 
                   <div className="">
                     <h3 className="text-center" style={{ color: "#ff7a01" }}>
-                      Multichannel Marketing
+                      LegacyAM
                     </h3>
                     <p className="text-center multichannel_marketing">
-                      <span style={{ color: "#e60008" }}>Lorem</span> ipsum
-                      dolor sit amet, consectetur adipiscing elit, sed do
-                      eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                      <span style={{ color: "#e60008" }}>Your </span>
+                      digital compass, integrating the world via Affiliate
+                      marketing and social promotions. Affording you the luxury
+                      to earn with us.
                     </p>
                   </div>
 
@@ -493,11 +493,12 @@ const LegacyAM = () => {
                       Search Engine Optimization
                     </h3>
                     <p className="text-center seo">
-                      <span style={{ color: "#e60008" }}>Lorem</span> ipsum
-                      dolor sit amet, consectetur adipiscing elit, sed do
-                      eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                      <span style={{ color: "#e60008" }}>Search </span>
+                      engine optimization (SEO) is the art and science of
+                      getting pages to rank higher in search engines such as
+                      Google. Because search is one of the main ways in which
+                      people discover content online, ranking higher in search
+                      engines can lead to an increase in traffic to a website.
                     </p>
                   </div>
                 </div>

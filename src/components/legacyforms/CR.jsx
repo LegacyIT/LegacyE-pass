@@ -512,40 +512,42 @@ const LegacyCR = () => {
                 <div className="w-75">
                   <div className="">
                     <h3 className="text-center" style={{ color: "#ff7a01" }}>
-                      Color Theory
+                      LegacyCR
                     </h3>
                     <p className="text-center color_theory">
-                      <span style={{ color: "#e60008" }}>Lorem</span> ipsum
-                      dolor sit amet, consectetur adipiscing elit, sed do
-                      eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                      <span style={{ color: "#e60008" }}>Digital </span>
+                      Arts Creations at its Peak. Still arts, Vectors, Motion
+                      arts and illustrations. Visualized, Inspired, creations of
+                      the future!
                     </p>
                   </div>
 
                   <div className="">
                     <h3 className="text-center" style={{ color: "#ff7a01" }}>
-                      Type Hierarchy
+                      Color Theory
                     </h3>
                     <p className="text-center type_hierarch">
-                      <span style={{ color: "#e60008" }}>Lorem</span> ipsum
-                      dolor sit amet, consectetur adipiscing elit, sed do
-                      eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                      <span style={{ color: "#e60008" }}>Color </span>
+                      theory is both the science and art of using color. It
+                      explains how humans perceive color; and the visual effects
+                      of how colors mix, match or contrast with each other.
+                      Color theory also involves the messages colors
+                      communicate; and the methods used to replicate color.
                     </p>
                   </div>
 
                   <div className="">
                     <h3 className="text-center" style={{ color: "#ff7a01" }}>
-                      Retina Display
+                      Typography
                     </h3>
                     <p className="text-center retina_display">
-                      <span style={{ color: "#e60008" }}>Lorem</span> ipsum
-                      dolor sit amet, consectetur adipiscing elit, sed do
-                      eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                      <span style={{ color: "#e60008" }}>Typography </span>
+                      is the art that involves arranging a typeface in various
+                      combinations of font, size, and spacing. In this way, a
+                      wide range of designs including website design, brochure
+                      designs, print design, books, and computer graphics, etc.
+                      depends on the skillful use of typography for making an
+                      impact.
                     </p>
                   </div>
                 </div>

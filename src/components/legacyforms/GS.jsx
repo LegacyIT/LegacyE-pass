@@ -502,14 +502,26 @@ const LegacyGS = () => {
                 <div className="w-75">
                   <div className="">
                     <h3 className="text-center" style={{ color: "#ff7a01" }}>
-                      E-Learning
+                      LegacyGS
                     </h3>
                     <p className="text-center learn">
-                      <span style={{ color: "#e60008" }}>Lorem</span> ipsum
-                      dolor sit amet, consectetur adipiscing elit, sed do
-                      eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                      <span style={{ color: "#e60008" }}>Legacy </span>
+                      Graphics School, digital learning on arts and info-tech.
+                      Helping youngsters improve their skill set, becoming
+                      valuable at their marketplace and positioning them for
+                      global relevance.
+                    </p>
+                  </div>
+
+                  <div className="">
+                    <h3 className="text-center" style={{ color: "#ff7a01" }}>
+                      E-Learning
+                    </h3>
+                    <p className="text-center recourse">
+                      <span style={{ color: "#e60008" }}>E-learning</span> ,
+                      also referred to as online learning or electronic
+                      learning, is the acquisition of knowledge which takes
+                      place through electronic technologies and media.
                     </p>
                   </div>
 
@@ -517,25 +529,12 @@ const LegacyGS = () => {
                     <h3 className="text-center" style={{ color: "#ff7a01" }}>
                       Resources
                     </h3>
-                    <p className="text-center recourse">
-                      <span style={{ color: "#e60008" }}>Lorem</span> ipsum
-                      dolor sit amet, consectetur adipiscing elit, sed do
-                      eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    </p>
-                  </div>
-
-                  <div className="">
-                    <h3 className="text-center" style={{ color: "#ff7a01" }}>
-                      Mastery
-                    </h3>
                     <p className="text-center mastery">
-                      <span style={{ color: "#e60008" }}>Lorem</span> ipsum
-                      dolor sit amet, consectetur adipiscing elit, sed do
-                      eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                      <span style={{ color: "#e60008" }}>Learning </span>
+                      resources are texts, videos, software, and other materials
+                      that teachers use to assist students to meet the
+                      expectations for learning defined by provincial or local
+                      curricula.
                     </p>
                   </div>
                 </div>
