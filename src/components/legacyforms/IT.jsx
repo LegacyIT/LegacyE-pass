@@ -586,7 +586,7 @@ const LegacyIT = () => {
         >
           <ul className="navbar-nav">
             <p className="text-muted" style={{ fontSize: "12px" }}>
-              All Rights Reserved. LegacyEA 2020
+              All Rights Reserved. LegacyEA 2021
             </p>
           </ul>
         </nav>
